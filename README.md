@@ -1,4 +1,4 @@
-# RSN-CHAT-BOT
+# RSN - CHAT - BOT
 
 ## Your very own Artificial Intelligence Discord Bot!
 
@@ -7,7 +7,7 @@
 ## How to use the bot?
 
 ### Step 1 (obtaining the API Key):
-- Headover to our [Discord Server](https://discord.gg/rsndev)
+- Head over to our [Discord Server](https://discord.gg/rsndev)
 - Go to the bot-commands channel and run 
     ```/new```
 - Copy the API Key and paste it in the .env file
@@ -20,5 +20,5 @@
 - Make sure all the dependencies are installed
 - Run the bot using ```node index.js```
     
-# Contributions and improvements to this project are open and appriciated!
+# Contributions and improvements to this project are open and appreciated!
 
